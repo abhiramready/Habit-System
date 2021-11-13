@@ -1,0 +1,57 @@
+## Learn Programming 2021 🧑‍💻
+
+## November
+
+* Built a calculator using JavaScript, [demo](https://codepen.io/abhiramready/full/QWvoBwV)
+
+## October
+
+**Learning Progress**: NA (Break)
+
+**Thoughts:** Took a break and changing the structure and criteria of this habit to allocate more time to building stuff over blogging
+
+**Link to work:**  NA (Break)
+
+## September
+
+**Learning Progress**: Async JavScript and more
+
+**Thoughts:** Wrote about dates, destructuring, promises and fetch
+
+**Link to work:** [September 2021](https://matrixread.com/2021/09/)
+
+## August
+
+**Learning Progress**: ES2020 JavScript
+
+**Thoughts:** ES2020 JavaScript features
+
+**Link to work:** [August 2021](https://matrixread.com/2021/08/)
+
+## July
+
+**Learning Progress**: JavScript 101
+
+**Thoughts:** Introduction to JavaScript
+
+**Link to work:** [July 2021](https://matrixread.com/2021/07/)
+
+## June
+
+**Learning Progress**: Tools, VS Code Extensions and JavScript
+
+**Thoughts:** Posts on why I use WordPress, tools, JavScript and I also made a few projects on CodePen
+
+**Link to work:** [June 2021](https://matrixread.com/2021/06/), [Projects](https://github.com/abhiramready/Full-Stack-Journey)
+
+## May
+
+**Learning Progress**: SEO, JavScript and Developer Experience
+
+**Thoughts:** Wrote some introductory posts on SEO and what I have been doing for the past few months 
+
+**Link to work:** [May 2021](https://matrixread.com/2021/05/)
+
+## January - April
+
+* Progress not tracked
