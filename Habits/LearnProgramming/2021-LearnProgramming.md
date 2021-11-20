@@ -3,6 +3,7 @@
 ## November
 
 * Built a calculator using JavaScript, [demo](https://codepen.io/abhiramready/full/QWvoBwV)
+* Learnt basics of Next.js 
 
 ## October
 
