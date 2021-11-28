@@ -3,7 +3,8 @@
 ## November
 
 * Built a calculator using JavaScript, [demo](https://codepen.io/abhiramready/full/QWvoBwV)
-* Learnt basics of Next.js 
+* Learnt basics of Next.js
+* Started working on a 25+5 timer with React, last project in my FreeCodeCamp Frontend Certification Course
 
 ## October
 
