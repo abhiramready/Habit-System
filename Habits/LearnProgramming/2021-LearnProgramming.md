@@ -1,5 +1,10 @@
 ## Learn Programming 2021 🧑‍💻
 
+## December
+
+* Learned to setup jest.config file for unit tests
+* Learned to setup and generate unit test reports for react projects
+
 ## November
 
 * Built a calculator using JavaScript, [demo](https://codepen.io/abhiramready/full/QWvoBwV)
