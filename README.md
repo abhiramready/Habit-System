@@ -6,7 +6,7 @@ Consistency is the Key ✨
 
 Challenges are short term goals and are to be completed within a certain time-frame.
 
-* [View log](https://github.com/abhiramready/Habit-System/blob/master/Challenges/README_Challenges.md)
+* [View log](https://github.com/abhiramready/Habit-System/blob/main/Challenges/README_Challenges.md)
 * 30 Days of Code
 * 100 Days of Code
 
@@ -15,7 +15,7 @@ Challenges are short term goals and are to be completed within a certain time-fr
 
 Habits are systems and daily actions with a long term goal that determines our direction.
 
-* [View log](https://github.com/abhiramready/Habit-System/blob/master/Habits/README_Habits.md)
+* [View log](https://github.com/abhiramready/Habit-System/blob/main/Habits/README_Habits.md)
 * Reading
 * Learn Programming
 
