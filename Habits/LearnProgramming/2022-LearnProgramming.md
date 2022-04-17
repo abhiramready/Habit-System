@@ -13,3 +13,15 @@
 - Short break, focusing on work and other things
 
 ## March
+
+Little progress made - I am planning to get 3 things done, one by one
+
+FreeCodeCamp Final Project: to get the Front End Libraries Certification, I have finished all the required steps and this is the last project but facing some resistance with the whole timer thing for the 25+5 clock, will need to commit and fix the issue to progress forward
+
+Write Blogs: its been a few months since I’ve published on matrixread (my dev blog), as I have been learning a thing or two, I wish to start writing again.
+
+Learn CSS Fundamentals: as part of my learning plan I have wrapped up the HTML fundamentals in a streak and next we have CSS and later the JS part. Anyways I’d like to start with this going forwards, then other activities.
+
+## April
+
+* Phew, almost midway in this month, getting started with CSS basics
