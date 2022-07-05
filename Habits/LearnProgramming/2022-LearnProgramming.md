@@ -22,6 +22,9 @@ Write Blogs: its been a few months since I’ve published on matrixread (my dev 
 
 Learn CSS Fundamentals: as part of my learning plan I have wrapped up the HTML fundamentals in a streak and next we have CSS and later the JS part. Anyways I’d like to start with this going forwards, then other activities.
 
-## April
+## April, May, June
 
-* Phew, almost midway in this month, getting started with CSS basics
+* Getting started with CSS basics
+* Learned some basics of unit testing
+* Setting up a new project with SASS
+* Worked on pure CSS and SASS
