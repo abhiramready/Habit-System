@@ -30,4 +30,4 @@ Learn CSS Fundamentals: as part of my learning plan I have wrapped up the HTML f
 * Worked on pure CSS and SASS
 
 ## July - December
-Progress not tracked
+* Progress not tracked
