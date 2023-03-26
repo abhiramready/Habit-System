@@ -28,3 +28,6 @@ Learn CSS Fundamentals: as part of my learning plan I have wrapped up the HTML f
 * Learned some basics of unit testing
 * Setting up a new project with SASS
 * Worked on pure CSS and SASS
+
+## July - December
+Progress not tracked
