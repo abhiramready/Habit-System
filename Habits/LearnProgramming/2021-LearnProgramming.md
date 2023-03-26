@@ -1,64 +1,74 @@
-## Learn Programming 2021 🧑‍💻
+Learn Programming 2021 🧑‍💻
+----------------------------
 
-## December
+January - April
+---------------
 
-* Learned to setup jest.config file for unit tests
-* Learned to setup and generate unit test reports for react projects
+-   Progress not tracked
 
-## November
+May
+---
 
-* Built a calculator using JavaScript, [demo](https://codepen.io/abhiramready/full/QWvoBwV)
-* Learnt basics of Next.js
-* Started working on a 25+5 timer with React, last project in my FreeCodeCamp Frontend Certification Course
+Learning Progress: SEO, JavScript and Developer Experience
 
-## October
+Thoughts: Wrote some introductory posts on SEO and what I have been doing for the past few months
 
-**Learning Progress**: NA (Break)
+Link to work: [May 2021](https://matrixread.com/2021/05/)
 
-**Thoughts:** Took a break and changing the structure and criteria of this habit to allocate more time to building stuff over blogging
+June
+----
 
-**Link to work:**  NA (Break)
+Learning Progress: Tools, VS Code Extensions and JavScript
 
-## September
+Thoughts: Posts on why I use WordPress, tools, JavScript and I also made a few projects on CodePen
 
-**Learning Progress**: Async JavScript and more
+Link to work: [June 2021](https://matrixread.com/2021/06/), [Projects](https://github.com/abhiramready/Full-Stack-Journey)
 
-**Thoughts:** Wrote about dates, destructuring, promises and fetch
+July
+----
 
-**Link to work:** [September 2021](https://matrixread.com/2021/09/)
+Learning Progress: JavScript 101
 
-## August
+Thoughts: Introduction to JavaScript
 
-**Learning Progress**: ES2020 JavScript
+Link to work: [July 2021](https://matrixread.com/2021/07/)
 
-**Thoughts:** ES2020 JavaScript features
+August
+------
 
-**Link to work:** [August 2021](https://matrixread.com/2021/08/)
+Learning Progress: ES2020 JavScript
 
-## July
+Thoughts: ES2020 JavaScript features
 
-**Learning Progress**: JavScript 101
+Link to work: [August 2021](https://matrixread.com/2021/08/)
 
-**Thoughts:** Introduction to JavaScript
+September
+---------
 
-**Link to work:** [July 2021](https://matrixread.com/2021/07/)
+Learning Progress: Async JavScript and more
 
-## June
+Thoughts: Wrote about dates, destructuring, promises and fetch
 
-**Learning Progress**: Tools, VS Code Extensions and JavScript
+Link to work: [September 2021](https://matrixread.com/2021/09/)
 
-**Thoughts:** Posts on why I use WordPress, tools, JavScript and I also made a few projects on CodePen
+October
+-------
 
-**Link to work:** [June 2021](https://matrixread.com/2021/06/), [Projects](https://github.com/abhiramready/Full-Stack-Journey)
+Learning Progress: NA (Break)
 
-## May
+Thoughts: Took a break and changing the structure and criteria of this habit to allocate more time to building stuff over blogging
 
-**Learning Progress**: SEO, JavScript and Developer Experience
+Link to work: NA (Break)
 
-**Thoughts:** Wrote some introductory posts on SEO and what I have been doing for the past few months 
+November
+--------
 
-**Link to work:** [May 2021](https://matrixread.com/2021/05/)
+-   Built a calculator using JavaScript, [demo](https://codepen.io/abhiramready/full/QWvoBwV)
+-   Learnt basics of Next.js
+-   Started working on a 25+5 timer with React, last project in my FreeCodeCamp Frontend Certification Course
 
-## January - April
+December
+--------
 
-* Progress not tracked
+-   Learned to setup jest.config file for unit tests
+-   Learned to setup and generate unit test reports for react projects
