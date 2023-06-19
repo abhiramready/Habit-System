@@ -1,19 +1,16 @@
 ## Learn Programming 2022 🧑‍💻
 
 ## January
-
 - Started working on the project 25+5 Cock in the FreeCodeCamp frontend certification, few sections left
 - For building the 25+5 Clock faced challenges with starting and stopping the timer with setInterval() and getInterval()
 - Started learning/revising HTML basics, documenting my learning with links to posts, videos, and notes in this repository [XT HTML](https://github.com/abhiramready/XT-HTML)
 
 ## February
-
 - While learning HTML covered SEO, W3C standards, Accessibility, Atomic Design, and more
 - Wrapped up learning [HTML](https://github.com/abhiramready/XT-HTML) for the current level, next up CSS
 - Short break, focusing on work and other things
 
 ## March
-
 Little progress made - I am planning to get 3 things done, one by one
 
 FreeCodeCamp Final Project: to get the Front End Libraries Certification, I have finished all the required steps and this is the last project but facing some resistance with the whole timer thing for the 25+5 clock, will need to commit and fix the issue to progress forward
@@ -24,10 +21,14 @@ Learn CSS Fundamentals: as part of my learning plan I have wrapped up the HTML f
 
 ## April, May, June
 
-* Getting started with CSS basics
-* Learned some basics of unit testing
-* Setting up a new project with SASS
 * Worked on pure CSS and SASS
+* Getting started with CSS basics
+* Setting up a new project with SASS
+* Learned some basics of unit testing
 
 ## July - December
-* Progress not tracked
+* Worked on Redux and Sagas
+* Working on an E-Commerce React project
+* Fix Sonar issues and improve code coverage
+* Learned rapid protoyping of given UI design
+* Crate new components using atomic deisgn patterns
