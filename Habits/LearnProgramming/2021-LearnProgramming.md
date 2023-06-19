@@ -4,16 +4,16 @@ January - April
 ---------------
 - Frontend Engineering Intern at Publicis Sapient
 - Completed Frontend Intern Learning Path
-- HTML5, CSS3, JavaScript, React and React Native
+- HTML5, CSS3, JavaScript, React, and React Native
 - Inventory Management App (Web) and Grocery Shopping App (Mobile)
 
 May
 ---
 Learning Progress: 
-- Started a full time position as Frontend Developer at Publicis Sapient
-- SEO, JavScript and Developer Experience
+- Started a full-time position as Frontend Developer at Publicis Sapient
+- SEO, JavScript, and Developer Experience
 
-Thoughts: Wrote some introductory posts on SEO and what I have been doing for the past few months
+Thoughts: Published introductory posts on SEO and what I have been doing for the past months
 
 Link to work: [May 2021](https://matrixread.com/2021/05/)
 
@@ -21,7 +21,7 @@ June
 ----
 Learning Progress: Tools, VS Code Extensions and JavScript
 
-Thoughts: Posts on why I use WordPress, tools, JavScript and I also made a few projects on CodePen
+Thoughts: Posts on why I use WordPress, tools, JavScript, and complied a few projects on CodePen
 
 Link to work: [June 2021](https://matrixread.com/2021/06/), [Projects](https://github.com/abhiramready/Full-Stack-Journey)
 
@@ -45,21 +45,21 @@ September
 ---------
 Learning Progress: Async JavScript and more
 
-Thoughts: Wrote about dates, destructuring, promises and fetch
+Thoughts: Wrote about dates, destructuring, promises, and fetch
 
 Link to work: [September 2021](https://matrixread.com/2021/09/)
 
 October
 -------
-Thoughts: Took a break and changing the structure and criteria of this habit to allocate more time to building stuff over blogging
+Thoughts: Had a break and changed the structure and criteria of this habit to allocate more time to building stuff over blogging
 
 November
 --------
 -   Built a calculator using JavaScript, [demo](https://codepen.io/abhiramready/full/QWvoBwV)
 -   Learnt basics of Next.js
--   Started working on a 25+5 timer with React, last project in my FreeCodeCamp Frontend Certification Course
+-   Started working on a 25+5 timer with React, the last project in my FreeCodeCamp Frontend Certification Course
 
 December
 --------
--   Learned to setup jest.config file for unit tests
--   Learned to setup and generate unit test reports for react projects
+-   Learned to set up jest.config file for unit tests
+-   Learned to setup and generate unit test reports for React projects
