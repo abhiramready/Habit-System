@@ -1,23 +1,23 @@
 ## Learn Programming 2022 🧑‍💻
 
 ## January
-- Started working on the project 25+5 Cock in the FreeCodeCamp frontend certification, few sections left
+- Started working on the project 25+5 Cock in the FreeCodeCamp frontend certification
 - For building the 25+5 Clock faced challenges with starting and stopping the timer with setInterval() and getInterval()
 - Started learning/revising HTML basics, documenting my learning with links to posts, videos, and notes in this repository [XT HTML](https://github.com/abhiramready/XT-HTML)
 
 ## February
-- While learning HTML covered SEO, W3C standards, Accessibility, Atomic Design, and more
+- While learning HTML, covered SEO, W3C standards, Accessibility, Atomic Design, and more
 - Wrapped up learning [HTML](https://github.com/abhiramready/XT-HTML) for the current level, next up CSS
 - Short break, focusing on work and other things
 
 ## March
-Little progress made - I am planning to get 3 things done, one by one
+Little progress made - I am planning to get three things done, one by one
 
-FreeCodeCamp Final Project: to get the Front End Libraries Certification, I have finished all the required steps and this is the last project but facing some resistance with the whole timer thing for the 25+5 clock, will need to commit and fix the issue to progress forward
+FreeCodeCamp Final Project: to get the Front End Libraries Certification, I have finished all the required steps, and this is the last project, but facing some resistance with the whole timer thing for the 25+5 clock. I need to commit and fix the issue to progress forward.
 
-Write Blogs: its been a few months since I’ve published on matrixread (my dev blog), as I have been learning a thing or two, I wish to start writing again.
+Write Blogs: It has been a few months since I published on matrixread (my dev blog). I have been learning a thing or two and start writing again.
 
-Learn CSS Fundamentals: as part of my learning plan I have wrapped up the HTML fundamentals in a streak and next we have CSS and later the JS part. Anyways I’d like to start with this going forwards, then other activities.
+Learn CSS Fundamentals: as part of my learning plan, I have wrapped up the HTML fundamentals in a streak, and next, we have CSS and then the JS part. Anyways, I’d like to start with this going forwards, then other activities.
 
 ## April, May, June
 
@@ -30,5 +30,5 @@ Learn CSS Fundamentals: as part of my learning plan I have wrapped up the HTML f
 * Worked on Redux and Sagas
 * Working on an E-Commerce React project
 * Fix Sonar issues and improve code coverage
-* Learned rapid protoyping of given UI design
-* Crate new components using atomic deisgn patterns
+* Learned rapid prototyping of given UI design
+* Crate new components using atomic design patterns
