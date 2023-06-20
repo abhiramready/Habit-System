@@ -27,7 +27,6 @@ Learn CSS Fundamentals: as part of my learning plan, I have wrapped up the HTML 
 * Learned some basics of unit testing
 
 ## July - December
-* Worked on Redux and Sagas
 * Working on an E-Commerce React project
 * Fix Sonar issues and improve code coverage
 * Learned rapid prototyping of given UI design
