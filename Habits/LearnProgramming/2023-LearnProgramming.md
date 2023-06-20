@@ -8,5 +8,6 @@
 
 ## June
 Catching up with React 18
-- [React 18 New Features](https://www.freecodecamp.org/news/react-18-new-features/)
-- [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q) - Video by Fireship
+- [React 18 New Features](https://www.freecodecamp.org/news/react-18-new-features/) ⭐
+- [10 React Hooks Explained](https://www.youtube.com/watch?v=TNhaISOUy6Q) - Video by Fireship ⭐
+- [React Testing Library Tutorial](https://www.robinwieruch.de/react-testing-library/) ⭐
