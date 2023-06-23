@@ -15,6 +15,7 @@
 - [React's useReducer Hook vs Redux](https://www.robinwieruch.de/redux-vs-usereducer/) - Robin
 - [Generator functions in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*) - MDN
 - [Your Guide to React.useCallback()](https://dmitripavlutin.com/react-usecallback/) - Dmitri Pavlutin
+- [JavaScript Callback Functions and How to Use Them](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/) - FreeCodeCamp
 
 ### Learning [Next.js](https://nextjs.org/learn/foundations/about-nextjs)
 Next.js has two forms of pre-rendering:  
