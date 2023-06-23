@@ -15,4 +15,4 @@ Catching up with React 18
 - [React's useReducer Hook vs Redux](https://www.robinwieruch.de/redux-vs-usereducer/) - Robin
 - [Generator functions in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*) - MDN
 - [Your Guide to React.useCallback()](https://dmitripavlutin.com/react-usecallback/) - Dmitri Pavlutin
-- []()
+- Learning [Next.js](https://nextjs.org/learn/foundations/about-nextjs)
