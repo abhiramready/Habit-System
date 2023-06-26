@@ -133,6 +133,7 @@ class UserComponent extends React.Component {
 - App state management library that acts as a Single source of truth
 - Helps us implement top-to-bottom data flow for consistent behavior
 - Persistent state across applications with Reducers helps transform the state
+- As we cannot change the state directly in Redux and it can only be possible with actions, the state changes are predictable
 
 ```JavaScript
 /**
