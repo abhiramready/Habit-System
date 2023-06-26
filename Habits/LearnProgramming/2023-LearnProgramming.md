@@ -2,7 +2,7 @@
 
 ## January - May
 - Worked on Redux and Sagas
-- Working on Cart and Checkout flow
+- Developing Cart and Checkout flow
 - Creating reusable and configurable components with atomic design pattern
 - Implemented a complete Checkout Re-design with minimal and modern UI
 
