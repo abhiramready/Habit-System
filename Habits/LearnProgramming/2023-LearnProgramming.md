@@ -76,7 +76,7 @@ Both call and put are effect-creator functions.
 Put creates an effect, which instructs middleware to dispatch an action to the store. put(), on the other hand, is a non-blocking effect, which means that the saga can continue to the next step and action will be dispatched within the internal scheduler.
 
 **takeEvery vs takeLatest**
-- takeEvery allows multiple action instances to be started concurrently and their completion order can var.
+- takeEvery allows multiple action instances to be started concurrently and their completion order can vary.
 - takeLatest allows only one action/task to run at any moment, the previous one will be canceled
 
 Creating a Store and Saga middleware
@@ -130,11 +130,9 @@ class UserComponent extends React.Component {
 }
 ```
 ### Redux
-- App state management library
-- Single source of truth
-- Help implement top-to-bottom data flow
-- Consistent behavior, persistent state across application
-- Reducer helps transform the state
+- App state management library that acts as a Single source of truth
+- Helps us implement top-to-bottom data flow for consistent behavior
+- Persistent state across applications with Reducers helps transform the state
 
 ```JavaScript
 /**
