@@ -1,4 +1,4 @@
-## Learn Programming 2023 💻
+## Learn Programming • 2023 💻
 
 ## January - May
 - Worked on Redux and Sagas
