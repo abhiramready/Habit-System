@@ -1,4 +1,4 @@
-Learn Programming 2021 🧑‍💻
+Learn Programming 2021 💻
 ----------------------------
 January - April
 ---------------
