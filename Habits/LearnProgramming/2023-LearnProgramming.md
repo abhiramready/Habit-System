@@ -6,6 +6,10 @@
 - Creating reusable and configurable components with atomic design pattern
 - Implemented a complete Checkout Re-design with minimal and modern UI
 
+✅ **GitHub Contributions this year**
+![image](https://github.com/abhiramready/Habit-System/assets/40287643/99c23a37-d5ad-4057-bb42-6ee253da26d6)
+
+
 ## June
 ### Catching up with React 18
 - [React 18 New Features](https://www.freecodecamp.org/news/react-18-new-features/) ⭐
