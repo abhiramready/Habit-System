@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log 2
+# 100 Days Of Code 💻x💯 - Log 2
 
 ### Round 2
 
