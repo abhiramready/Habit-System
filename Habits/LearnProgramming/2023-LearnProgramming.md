@@ -1,4 +1,4 @@
-## Learn Programming 2023 🧑‍💻
+## Learn Programming 2023 💻
 
 ## January - May
 - Worked on Redux and Sagas
@@ -20,6 +20,11 @@
 - [Generator functions in JS](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/function*) - MDN
 - [Your Guide to React.useCallback()](https://dmitripavlutin.com/react-usecallback/) - Dmitri Pavlutin
 - [JavaScript Callback Functions and How to Use Them](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/) - FreeCodeCamp
+
+### Work Done
+- Published blog post, [How to fix ‘agentkeepalive’ npm update error](https://matrixread.com/cannot-find-module-agentkeepalive-npm-update/)
+- Deployed first Next.js App, [Next.js Blog](https://nextjs-blog-abhiramready.vercel.app/)
+
 
 ### Learning [Next.js](https://nextjs.org/learn/foundations/about-nextjs)
 Next.js has two forms of pre-rendering:  
