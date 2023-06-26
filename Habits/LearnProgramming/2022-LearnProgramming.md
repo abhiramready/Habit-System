@@ -1,4 +1,4 @@
-## Learn Programming 2022 🧑‍💻
+## Learn Programming 2022 💻
 
 ## January
 - Started working on the project 25+5 Cock in the FreeCodeCamp frontend certification
