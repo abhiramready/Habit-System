@@ -43,3 +43,6 @@ export async function getServerSideProps(context) {
   };
 }
 ```
+**Dynamic URLs:** Next.js allows you to statically generate pages with paths that depend on external data, where each page path depends on external data.
+
+ <img src="https://github.com/abhiramready/Habit-System/assets/40287643/4f55fdca-4753-492c-a86a-28a2ddf1682f" width="400"> 
