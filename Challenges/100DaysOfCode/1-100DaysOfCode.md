@@ -1,4 +1,4 @@
-# 100 Days Of Code - Log 1
+# 100 Days Of Code 💻x💯 - Log 1
 
 ### Day 1: November 16, 2019
 
