@@ -46,3 +46,112 @@ export async function getServerSideProps(context) {
 **Dynamic URLs:** Next.js allows you to statically generate pages with paths that depend on external data, where each page path depends on external data.
 
  <img src="https://github.com/abhiramready/Habit-System/assets/40287643/4f55fdca-4753-492c-a86a-28a2ddf1682f" width="400"> 
+
+## Redux-Saga
+- An intuitive Redux side effect manager.
+
+### Create a Saga
+
+**Generator Functions**
+
+The function* with * defines a generator function, which returns a Generator object. Generators functions can be exited and later re-entered. Their context (variable bindings) will be saved across re-entrances. 
+
+**Yield**
+
+Yield operator is used to pause and resume a generator function. The yield keyword pauses generator function execution and the value of the expression following the yield keyword is returned to the generator's caller.
+
+Both call and put are effect-creator functions.
+
+**Call**
+
+ Call is used to create effect description, which instructs middleware to call the promise. call() is a blocking effect, which means that the saga will wait for the promise resolving before moving on to the next step.
+
+**Put**
+
+Put creates an effect, which instructs middleware to dispatch an action to the store. put(), on the other hand, is a non-blocking effect, which means that the saga can continue to the next step and action will be dispatched within the internal scheduler.
+
+**takeEvery vs takeLatest**
+- takeEvery allows multiple action instances to be started concurrently and their completion order can var.
+- takeLatest allows only one action/task to run at any moment, the previous one will be canceled
+
+Creating a Store and Saga middleware
+
+```JavaScript
+import { call, put, takeEvery, takeLatest } from 'redux-saga/effects'
+import Api from '...'
+
+// Worker saga will be fired on USER_FETCH_REQUESTED actions
+function* fetchUser(action) {
+   try {
+      const user = yield call(Api.fetchUser, action.payload.userId);
+      yield put({type: "USER_FETCH_SUCCEEDED", user: user});
+   } catch (e) {
+      yield put({type: "USER_FETCH_FAILED", message: e.message});
+   }
+}
+
+function* mySaga() {
+  yield takeLatest("USER_FETCH_REQUESTED", fetchUser);
+}
+```
+Connecting the Redux Store and applying Middleware
+```JavaScript
+import { createStore, applyMiddleware } from 'redux'
+import createSagaMiddleware from 'redux-saga'
+
+import reducer from './reducers'
+import mySaga from './sagas'
+
+// Create the saga middleware
+const sagaMiddleware = createSagaMiddleware()
+// Mount it on the Store
+const store = createStore(
+  reducer,
+  applyMiddleware(sagaMiddleware)
+)
+
+// Then run the saga
+sagaMiddleware.run(mySaga)
+```
+Dispatch an Action
+```JavaScript
+class UserComponent extends React.Component {
+  ...
+  onSomeButtonClicked() {
+    const { userId, dispatch } = this.props
+    dispatch({type: 'USER_FETCH_REQUESTED', payload: {userId}})
+  }
+  ...
+}
+```
+### Redux
+- App state management library
+- Single source of truth
+- Help implement top-to-bottom data flow
+- Consistent behavior, persistent state across application
+- Reducer helps transform the state
+
+```JavaScript
+/**
+ * This is a reducer - a function that takes a current state value and an
+ * action object describing "what happened", and returns a new state value.
+ * A reducer's function signature is: (intialState, action) => newState
+ *
+ * The Redux state should contain only plain JS objects, arrays, and primitives.
+ * The root state value is usually an object. It's important that you should
+ * not mutate the state object, but return a new object if the state changes.
+ *
+ * You can use any conditional logic you want in a reducer. In this example,
+ * we use a switch statement, but it's not required.
+ */
+function counterReducer(state = { value: 0 }, action) {
+  switch (action.type) {
+    case 'counter/incremented':
+      return { value: state.value + 1 }
+    case 'counter/decremented':
+      return { value: state.value - 1 }
+    default:
+      return state
+  }
+}
+```
