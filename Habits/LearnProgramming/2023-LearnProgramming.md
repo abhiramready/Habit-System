@@ -159,3 +159,10 @@ function counterReducer(state = { value: 0 }, action) {
   }
 }
 ```
+## TypeScript Revision
+
+- Strongly typed - the variables have fixed types in their life cycle
+- Create custom types with interfaces
+- [TypeScript Basics - Beginner's Guide](https://www.freecodecamp.org/news/learn-typescript-basics/)
+
+Javascript is dynamically typed i.e the type of your variable is unknown until it instantiates at run-time which leads to errors. Typescript adds static type support to Javascript which takes care of bugs that are caused by false assumptions of a variable type if you use it right.
