@@ -159,6 +159,7 @@ function counterReducer(state = { value: 0 }, action) {
   }
 }
 ```
+## July
 ## TypeScript Revision
 
 - Strongly typed - the variables have fixed types in their life cycle
