@@ -21,6 +21,11 @@
 - [Your Guide to React.useCallback()](https://dmitripavlutin.com/react-usecallback/) - Dmitri Pavlutin
 - [JavaScript Callback Functions and How to Use Them](https://www.freecodecamp.org/news/javascript-callback-functions-what-are-callbacks-in-js-and-how-to-use-them/) - FreeCodeCamp
 
+### Ref vs State
+- Updating a reference doesn't trigger re-rendering, while updating the state makes the component re-render;
+- The reference update is synchronous (the updated reference value is available right away), while the state update is asynchronous (the state variable is updated after re-rendering).
+- From a higher point of view, references store infrastructure data of side effects, while the state stores information that is directly rendered on the screen.
+
 ### Work Done
 - Published blog post, [How to fix ‘agentkeepalive’ npm update error](https://matrixread.com/cannot-find-module-agentkeepalive-npm-update/)
 - Deployed first Next.js App, [Next.js Blog](https://nextjs-blog-abhiramready.vercel.app/)
