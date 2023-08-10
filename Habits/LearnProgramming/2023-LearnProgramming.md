@@ -179,3 +179,5 @@ function counterReducer(state = { value: 0 }, action) {
 - working on Pomodoro Timer with React
 - Timer Codepen - [https://codepen.io/abhiramready/full/oNeVJZW]
 - Working on the timer function with useInterval and hooks
+
+## August
