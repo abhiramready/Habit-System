@@ -182,4 +182,5 @@ function counterReducer(state = { value: 0 }, action) {
 
 ## August
 - Published blog post - [Count Vowels in a String with JavaScript](https://matrixread.com/count-vowels-in-a-string-with-javascript/)
+- Introduction to [Formik](https://www.freecodecamp.org/news/build-react-forms-with-formik-library/) - FreeCodeCamp
 
