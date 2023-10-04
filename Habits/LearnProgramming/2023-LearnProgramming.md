@@ -185,3 +185,6 @@ function counterReducer(state = { value: 0 }, action) {
 - Introduction to [Formik](https://www.freecodecamp.org/news/build-react-forms-with-formik-library/) - FreeCodeCamp
 
 ## September
+- Published blog post - [Consecutive characters count in String with JavaScript](https://matrixread.com/consecutive-characters-count-in-string-with-javascript/)
+
+## October
