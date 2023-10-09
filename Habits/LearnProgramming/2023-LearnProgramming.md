@@ -188,3 +188,4 @@ function counterReducer(state = { value: 0 }, action) {
 - Published blog post - [Consecutive characters count in String with JavaScript](https://matrixread.com/consecutive-characters-count-in-string-with-javascript/)
 
 ## October
+- Published blog post - [Simple and Pure CSS Spinner](https://matrixread.com/simple-and-pure-css-spinner/)
