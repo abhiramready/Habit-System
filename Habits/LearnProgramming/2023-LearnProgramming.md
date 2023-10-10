@@ -189,3 +189,6 @@ function counterReducer(state = { value: 0 }, action) {
 
 ## October
 - Published blog post - [Simple and Pure CSS Spinner](https://matrixread.com/simple-and-pure-css-spinner/)
+- useMemo() = cache result of expensive function calls, recompute when dependencies change
+- useCallback() = a new function object is created for every re-render which can hog performance, useCallback() prevents unnecessary re-renders of the children as they'll be using the same function object.
+- 
