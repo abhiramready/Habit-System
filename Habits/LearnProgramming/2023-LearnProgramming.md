@@ -84,27 +84,8 @@ Put creates an effect, which instructs middleware to dispatch an action to the s
 - takeEvery allows multiple action instances to be started concurrently and their completion order can vary.
 - takeLatest allows only one action/task to run at any moment, the previous one will be canceled
 
-Creating a Store and Saga middleware
+Creating the Redux Store and applying Middleware
 
-```JavaScript
-import { call, put, takeEvery, takeLatest } from 'redux-saga/effects'
-import Api from '...'
-
-// Worker saga will be fired on USER_FETCH_REQUESTED actions
-function* fetchUser(action) {
-   try {
-      const user = yield call(Api.fetchUser, action.payload.userId);
-      yield put({type: "USER_FETCH_SUCCEEDED", user: user});
-   } catch (e) {
-      yield put({type: "USER_FETCH_FAILED", message: e.message});
-   }
-}
-
-function* mySaga() {
-  yield takeLatest("USER_FETCH_REQUESTED", fetchUser);
-}
-```
-Connecting the Redux Store and applying Middleware
 ```JavaScript
 import { createStore, applyMiddleware } from 'redux'
 import createSagaMiddleware from 'redux-saga'
@@ -123,6 +104,26 @@ const store = createStore(
 // Then run the saga
 sagaMiddleware.run(mySaga)
 ```
+Creating SAGA
+```JavaScript
+import { call, put, takeEvery, takeLatest } from 'redux-saga/effects'
+import Api from '...'
+
+// Worker saga will be fired on USER_FETCH_REQUESTED actions
+function* fetchUser(action) {
+   try {
+      const user = yield call(Api.fetchUser, action.payload.userId);
+      yield put({type: "USER_FETCH_SUCCEEDED", user: user});
+   } catch (e) {
+      yield put({type: "USER_FETCH_FAILED", message: e.message});
+   }
+}
+
+function* mySaga() {
+  yield takeLatest("USER_FETCH_REQUESTED", fetchUser);
+}
+```
+
 Dispatch an Action
 ```JavaScript
 class UserComponent extends React.Component {
