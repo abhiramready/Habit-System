@@ -57,8 +57,39 @@ export async function getServerSideProps(context) {
 
  <img src="https://github.com/abhiramready/Habit-System/assets/40287643/4f55fdca-4753-492c-a86a-28a2ddf1682f" width="400"> 
 
-## Redux-Saga Revision
-- An intuitive Redux side effect manager.
+### Redux
+- App state management library that acts as a Single source of truth
+- Helps us implement top-to-bottom data flow for consistent behavior
+- Persistent state across applications with Reducers helps transform the state
+- As we cannot change the state directly in Redux and it can only be possible with actions, the state changes are predictable
+
+```JavaScript
+/**
+ * This is a reducer - a function that takes a current state value and an
+ * action object describing "what happened", and returns a new state value.
+ * A reducer's function signature is: (intialState, action) => newState
+ *
+ * The Redux state should contain only plain JS objects, arrays, and primitives.
+ * The root state value is usually an object. It's important that you should
+ * not mutate the state object, but return a new object if the state changes.
+ *
+ * You can use any conditional logic you want in a reducer. In this example,
+ * we use a switch statement, but it's not required.
+ */
+function counterReducer(state = { value: 0 }, action) {
+  switch (action.type) {
+    case 'counter/incremented':
+      return { value: state.value + 1 }
+    case 'counter/decremented':
+      return { value: state.value - 1 }
+    default:
+      return state
+  }
+}
+```
+
+## Redux-Saga
+An intuitive Redux side effect manager.
 
 ### Create a Saga
 
@@ -135,36 +166,7 @@ class UserComponent extends React.Component {
   ...
 }
 ```
-### Redux
-- App state management library that acts as a Single source of truth
-- Helps us implement top-to-bottom data flow for consistent behavior
-- Persistent state across applications with Reducers helps transform the state
-- As we cannot change the state directly in Redux and it can only be possible with actions, the state changes are predictable
 
-```JavaScript
-/**
- * This is a reducer - a function that takes a current state value and an
- * action object describing "what happened", and returns a new state value.
- * A reducer's function signature is: (intialState, action) => newState
- *
- * The Redux state should contain only plain JS objects, arrays, and primitives.
- * The root state value is usually an object. It's important that you should
- * not mutate the state object, but return a new object if the state changes.
- *
- * You can use any conditional logic you want in a reducer. In this example,
- * we use a switch statement, but it's not required.
- */
-function counterReducer(state = { value: 0 }, action) {
-  switch (action.type) {
-    case 'counter/incremented':
-      return { value: state.value + 1 }
-    case 'counter/decremented':
-      return { value: state.value - 1 }
-    default:
-      return state
-  }
-}
-```
 ## July
 ## TypeScript Revision
 
