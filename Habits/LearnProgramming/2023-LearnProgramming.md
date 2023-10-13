@@ -198,3 +198,4 @@ class UserComponent extends React.Component {
 - A “higher-order function” is a function that accepts functions as parameters and/or returns a function.
 - [Intro to React Router](https://www.freecodecamp.org/news/how-to-use-react-router-version-6/) - FCC
 - [HTML vs JSX](https://www.freecodecamp.org/news/html-vs-jsx-whats-the-difference/) - FCC
+- [A Complete Guide to Routing in React](https://hygraph.com/blog/routing-in-react)
