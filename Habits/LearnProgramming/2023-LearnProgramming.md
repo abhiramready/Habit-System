@@ -195,3 +195,4 @@ class UserComponent extends React.Component {
 - useMemo() = cache result of expensive function calls, recompute when dependencies change
 - useCallback() = a new function object is created for every re-render which can hog performance, useCallback() prevents unnecessary re-renders of the children as they'll be using the same function object.
 - React 18 features: Concurrent Rendering, Automatic Batching, Transitions - startTransition, Suspense on the server
+- A “higher-order function” is a function that accepts functions as parameters and/or returns a function.
