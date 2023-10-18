@@ -201,7 +201,10 @@ class UserComponent extends React.Component {
 - [A Complete Guide to Routing in React](https://hygraph.com/blog/routing-in-react)
 
 ### Accessible Unit Testing
-- useragentman.com
+- [useragentman.com](https://www.useragentman.com/blog/)
 - [Enable Project](https://www.useragentman.com/enable/index.php)
 - axe and Pa11y for accessibility testing
 - HTML Checker - [v.Nu](https://validator.github.io/validator/)
+
+### ARIA
+ARIA attributes aid us to make applications more accessible but the irony is that our code/HTML markup should be semantic enough in the first place so that we need not use/define ARIA exclusively. i.e. applications should be accessible by default.
