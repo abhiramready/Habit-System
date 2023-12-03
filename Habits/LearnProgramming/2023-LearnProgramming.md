@@ -208,3 +208,10 @@ class UserComponent extends React.Component {
 
 ### ARIA
 ARIA attributes aid us to make applications more accessible but the irony is that our code/HTML markup should be semantic enough in the first place so that we need not use/define ARIA exclusively. i.e. applications should be accessible by default.
+
+## November
+- Working on Next.js basics, App Router
+- Learnt and implemented React UI with Tailwind CSS
+- Writing unit tests with RTL [React Testing Library] with 100% Coverage
+
+## December
