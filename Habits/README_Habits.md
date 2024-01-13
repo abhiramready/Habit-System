@@ -1,4 +1,4 @@
-## Reading 📚
+## Reading 📖
 
 I started reading seriously in 2020, initially, I was looking for ways to spend time after quitting social media, and deciding to read books was the best decision I made. I assumed reading is not for everyone but, now I believe everyone should start reading.
 
