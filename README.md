@@ -16,9 +16,5 @@ Challenges are short-term goals and are to be completed within a certain time fr
 Habits are systems and daily actions with long-term goal that determines our direction.
 
 * [View Habit logs](https://github.com/abhiramready/Habit-System/blob/main/Habits/README_Habits.md)
-* Reading 📚
+* Reading 📖
 * Learn Programming 👨‍💻
-
-## Breaks 🧘‍♂️
-
-A challenge/habit can be paused or stopped tracking for a few days when sick or for other reasons. However, when the break is more than a week/month i.e. depending on the type of activity it needs to be restarted and improved in the next iteration.
