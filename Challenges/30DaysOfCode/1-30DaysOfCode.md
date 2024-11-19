@@ -1,5 +1,8 @@
-# #30DaysOfCode ✍x3️⃣0️⃣
- <strong>Objective:</strong> Solve one Problem daily and write a blog post on the solution approach [October-1-2020 to October-30-2020]
+# #30DaysOfCode 💻 x 📆
+Solve one Problem a day and write a blog post on the approach to the solution.
+\
+[1-October-2020 to 30-October-2020]
+
 - [#30DaysofCode](https://matrixread.com/30daysofcode/)
 - [Direct & Indirect Recursion](https://matrixread.com/direct-indirect-recursion/)
 - [Even Odd Separation O(N) Single Iteration](https://matrixread.com/even-odd-separation-on-single-iteration/)
