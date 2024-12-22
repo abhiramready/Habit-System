@@ -12,7 +12,7 @@ Habits are systems for daily actions with long-term goals that determine our dir
 
 ### 💻 Learn Programming
 
-- [2021](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2021.md) | [2022](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2022.md) | [2023](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2023.md) | [2024](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2024.md)
+- [2021](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2021.md) | [2022](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2022.md) | [2023](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2023.md) | [2024](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2024.md) | [2025](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2025.md)
 
 ## 🔥 Challenges
 
