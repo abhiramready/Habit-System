@@ -1,5 +1,9 @@
 # 📖 Books Read
 
+## 📆 2025
+
+1. _
+
 ## 📆 2024
 
 1. Atomic Habits - James Clear 📙 🎧 ⭐
@@ -24,6 +28,6 @@
 6. Obstacle Is The Way - Ryan Holiday 🎧
 7. Born A Crime - Trevor Noah 🎧
 8. The Immortals of Meluha - Amish Tripathi 🎧
-10. Stillness Is the Key - Ryan Holiday 🎧
-11. Make Your Bed - William H. McRaven 🎧
-12. The Compound Effect - Darren Hardy 🎧
+9. Stillness Is the Key - Ryan Holiday 🎧
+10. Make Your Bed - William H. McRaven 🎧
+11. The Compound Effect - Darren Hardy 🎧
