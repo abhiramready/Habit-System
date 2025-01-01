@@ -20,7 +20,7 @@ Challenges are goals to be completed within a certain time frame.
 
 ### The Pushup Challenge 💪
 
-- Progress Log [2025](https://github.com/abhiramready/Habit-System/blob/main/Challenges/100DaysOfCode/2-100DaysOfCode.md)
+- Progress Log [2025](https://github.com/abhiramready/Habit-System/blob/main/Challenges/ThePushupChallenge/ThePushupChallenge.md)
 
 
 ### 💻 x 💯 100 Days of Code
