@@ -1,34 +1,29 @@
 # 📖 Books Read
 
 ## 📆 2025
-
 1. Meditations - Marcus Aurelius (George Long) 📘
 2. Complete Chanakya Neeti - Vishnu Gupta (R.P. Jain) 🎧 ⭐
 
 ## 📆 2024
-
 1. Atomic Habits - James Clear 🎧 ⭐
 
 ## 📆 2023
-
-1. The Power of Your Subconscious Mind - Joseph Murphy 📘
-2. The Greatest Short Stories Of - Leo Tolstoy 📘
+1. The Greatest Short Stories Of - Leo Tolstoy 📘
+2. The Power of Your Subconscious Mind - Joseph Murphy 📘
 
 ## 📆 2022
-
-1. The Psychology of Money - Morgan Housel 📘 ⭐
-2. Ikigai - Francesc Miralles and Hector Garcia 📘 ⭐
+1. Ikigai - Francesc Miralles and Hector Garcia 📘 ⭐
+2. The Psychology of Money - Morgan Housel 📘 ⭐
 
 ## 📆 2021
-
-1. War Of The Worlds - H.G Wells 📘
-2. Attitude Is Everything - Jeff Keller 📘
-3. The Subtle Art Of Not Giving A F*ck - Mark Manson 📘 ⭐
-4. Ego Is The Enemy - Ryan Holiday 🎧 ⭐
-5. Elon Musk - Ashlee Vance  🎧 ⭐
-6. Obstacle Is The Way - Ryan Holiday 🎧
-7. Born A Crime - Trevor Noah 🎧
-8. The Immortals of Meluha - Amish Tripathi 🎧
-9. Stillness Is the Key - Ryan Holiday 🎧
-10. Make Your Bed - William H. McRaven 🎧
-11. The Compound Effect - Darren Hardy 🎧
+1. Born A Crime - Trevor Noah 🎧  
+2. Elon Musk - Ashlee Vance 🎧 ⭐  
+3. War Of The Worlds - H.G Wells 📘  
+4. Ego Is The Enemy - Ryan Holiday 🎧 ⭐  
+5. Obstacle Is The Way - Ryan Holiday 🎧  
+6. Make Your Bed - William H. McRaven 🎧  
+7. The Compound Effect - Darren Hardy 🎧  
+8. Stillness Is the Key - Ryan Holiday 🎧  
+9. Attitude Is Everything - Jeff Keller 📘  
+10. The Immortals of Meluha - Amish Tripathi 🎧  
+11. The Subtle Art Of Not Giving A F*ck - Mark Manson 📘 ⭐
