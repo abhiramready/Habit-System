@@ -2,7 +2,7 @@
 
 ## 📆 2025
 
-1. Meditations - Marcus Aurelius (George Long) 📙
+1. Meditations - Marcus Aurelius (George Long) 📘
 2. Complete Chanakya Neeti - Vishnu Gupta (R.P. Jain) 🎧 ⭐
 
 ## 📆 2024
@@ -11,19 +11,19 @@
 
 ## 📆 2023
 
-1. The Power of Your Subconscious Mind - Joseph Murphy 📙
-2. The Greatest Short Stories Of - Leo Tolstoy 📙
+1. The Power of Your Subconscious Mind - Joseph Murphy 📘
+2. The Greatest Short Stories Of - Leo Tolstoy 📘
 
 ## 📆 2022
 
-1. The Psychology of Money - Morgan Housel 📙 ⭐
-2. Ikigai - Francesc Miralles and Hector Garcia 📙 ⭐
+1. The Psychology of Money - Morgan Housel 📘 ⭐
+2. Ikigai - Francesc Miralles and Hector Garcia 📘 ⭐
 
 ## 📆 2021
 
-1. War Of The Worlds - H.G Wells 📙
-2. Attitude Is Everything - Jeff Keller 📙
-3. The Subtle Art Of Not Giving A F*ck - Mark Manson 📙 ⭐
+1. War Of The Worlds - H.G Wells 📘
+2. Attitude Is Everything - Jeff Keller 📘
+3. The Subtle Art Of Not Giving A F*ck - Mark Manson 📘 ⭐
 4. Ego Is The Enemy - Ryan Holiday 🎧 ⭐
 5. Elon Musk - Ashlee Vance  🎧 ⭐
 6. Obstacle Is The Way - Ryan Holiday 🎧
