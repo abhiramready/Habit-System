@@ -2,7 +2,7 @@
 
 ## 📆 2025
 1. Meditations - Marcus Aurelius (George Long) 📘
-2. Complete Chanakya Neeti - Vishnu Gupta (R.P. Jain) 🎧 ⭐
+2. Complete Chanakya Neeti - Vishnu Gupta (R.P. Jain) 🎧
 
 ## 📆 2024
 1. Atomic Habits - James Clear 🎧 ⭐
