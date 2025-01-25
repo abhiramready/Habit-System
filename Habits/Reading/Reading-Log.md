@@ -1,8 +1,9 @@
 # 📖 Books Read
 
 ## 📆 2025
-1. Meditations - Marcus Aurelius (George Long) 📘
-2. Complete Chanakya Neeti - Vishnu Gupta (R.P. Jain) 🎧
+1. Robinson Crusoe - Daniel Defoe 📘 ⭐
+2. Meditations - Marcus Aurelius (George Long) 📘
+3. Complete Chanakya Neeti - Vishnu Gupta (R.P. Jain) 🎧
 
 ## 📆 2024
 1. Atomic Habits - James Clear 🎧 ⭐
