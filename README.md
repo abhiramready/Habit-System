@@ -18,7 +18,7 @@ Habits are systems for daily actions with long-term goals that determine our dir
 
 Challenges are goals to be completed within a certain time frame.
 
-### The Workout Challenge 💪
+### 💪 The Workout Challenge
 
 - Progress Log [2025](https://github.com/abhiramready/Habit-System/blob/main/Challenges/WorkoutChallenge/2025.md)
 
