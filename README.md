@@ -8,7 +8,7 @@ Habits are systems for daily actions with long-term goals that determine our dir
 
 ### 📖 Reading
 
-- Books Read [2021-2025](https://github.com/abhiramready/Habit-System/blob/main/Habits/Reading/Reading-Log.md)
+- Books Read [2021-2025](https://github.com/abhiramready/Habit-System/blob/main/Habits/Reading/README.md)
 
 ### 💻 Learn Programming
 
