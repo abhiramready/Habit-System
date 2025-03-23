@@ -4,8 +4,9 @@
 1. Robinson Crusoe - Daniel Defoe 📘 ⭐
 2. Meditations - Marcus Aurelius (George Long) 📘
 3. Complete Chanakya Neeti - Vishnu Gupta (R.P. Jain) 🎧
+4. Never Split the Difference: Negotiating As If Your Life Depended On It -  Chris Voss 🎧
 
-## 📆 2024
+## 📆 2024 
 1. Atomic Habits - James Clear 🎧 ⭐
 
 ## 📆 2023
