@@ -18,6 +18,9 @@ Habits are systems for daily actions with long-term goals that determine our dir
 
 Challenges are goals to be completed within a certain time frame.
 
+### 📝 One Article Every Day
+- [2025]()
+
 ### 💪 Workout Challenge
 
 - [2025](https://github.com/abhiramready/Habit-System/blob/main/Challenges/WorkoutChallenge/2025.md)
@@ -30,4 +33,4 @@ Challenges are goals to be completed within a certain time frame.
 
 ### 💻 x 📆 30 Days of Code
 
-- Progress Log : [30Days](https://github.com/abhiramready/Habit-System/blob/main/Challenges/30DaysOfCode/1-30DaysOfCode.md)
+- Progress Log : [30Days](https://github.com/abhiramready/Habit-System/blob/main/Challenges/30DaysOfCode/README.md)
