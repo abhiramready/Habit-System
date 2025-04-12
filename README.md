@@ -9,13 +9,13 @@ Habits are systems for daily actions with long-term goals that determine our dir
 - Books Read [2021-2025](https://github.com/abhiramready/Habit-System/blob/main/Habits/Reading/README.md)
 
 ### 💪 Workout Everyday
-- [2025](https://github.com/abhiramready/Habit-System/blob/main/Challenges/WorkoutChallenge/2025.md)
+- [2025](https://github.com/abhiramready/Habit-System/blob/main/Habits/WorkoutChallenge/2025.md)
 
 ### 💻 Learn Programming
 - [2021](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2021.md) | [2022](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2022.md) | [2023](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2023.md) | [2024](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2024.md) | [2025](https://github.com/abhiramready/Habit-System/blob/main/Habits/LearnProgramming/2025.md)
 
 ### 📝 One Article Every Day
-- [Progress Log](https://github.com/abhiramready/Habit-System/blob/main/Challenges/OneArticleEveryday/README.md) - Streak: 12 Days 🔥
+- [Progress Log](https://github.com/abhiramready/Habit-System/blob/main/Habits/OneArticleEveryday/README.md) - Streak: 12 Days 🔥
 
 ## 🔥 Challenges
 Challenges are goals to be completed within a certain time frame.
