@@ -16,7 +16,7 @@ Challenges are goals to be completed within a certain time frame.
 ### 📝 One Article Every Day
 - [Progress Log](https://github.com/abhiramready/Habit-System/blob/main/Challenges/OneArticleEveryday/README.md) - 🔥 Streak: 33 Days
 
-### 💪 Workout Challenge
+### 💪 Workout Everyday
 - [2025](https://github.com/abhiramready/Habit-System/blob/main/Challenges/WorkoutChallenge/2025.md)
 
 
