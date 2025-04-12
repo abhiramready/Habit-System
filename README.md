@@ -1,6 +1,6 @@
 # 🧭 Habit System
 - Habits: We Are What We Do ✨
-- System: “You do not rise to the level of your goals. You fall to the level of your systems.” - James Clear in Atomic Habits 📘
+- System: “You do not rise to the level of your goals. You fall to the level of your systems.” - James Clear 📘
 
 ## 📅 Habits
 Habits are systems for daily actions with long-term goals that determine our direction.
