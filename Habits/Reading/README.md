@@ -5,6 +5,7 @@
 2. Meditations - Marcus Aurelius (George Long) 📘
 3. Complete Chanakya Neeti - Vishnu Gupta (R.P. Jain) 🎧
 4. Never Split the Difference: Negotiating As If Your Life Depended On It -  Chris Voss 🎧
+5. Five on a Treasure Island - Enid Blyton 📘
 
 ## 📆 2024 
 1. Atomic Habits - James Clear 🎧 ⭐
