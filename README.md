@@ -15,7 +15,7 @@ Habits are systems for daily actions with long-term goals that determine our dir
 - [2021](/Habits/LearnProgramming/2021.md) | [2022](/Habits/LearnProgramming/2022.md) | [2023](/Habits/LearnProgramming/2023.md) | [2024](/Habits/LearnProgramming/2024.md) | [2025](/Habits/LearnProgramming/2025.md)
 
 ### 📝 One Article Every Day
-- [2025](/Habits/OneArticleEveryday/README.md) - Streak: 30 Days 🔥
+- [2025](/Habits/OneArticleEveryday/README.md) - Streak: 60 Days 🔥
 
 ## 🔥 Challenges
 Challenges are goals to be completed within a certain time frame.
