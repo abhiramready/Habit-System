@@ -2,9 +2,8 @@
 
 ## 📆 2025
 1. Robinson Crusoe - Daniel Defoe 📘 ⭐
-2. Complete Chanakya Neeti - Vishnu Gupta (R.P. Jain) 🎧
-3. Never Split the Difference: Negotiating As If Your Life Depended On It -  Chris Voss 🎧 ⭐
-4. Five on a Treasure Island - Enid Blyton 📘 ⭐
+2. Never Split the Difference: Negotiating As If Your Life Depended On It -  Chris Voss 🎧 ⭐
+3. Five on a Treasure Island - Enid Blyton 📘 ⭐
 
 ## 📆 2024 
 1. Atomic Habits - James Clear 🎧 ⭐
