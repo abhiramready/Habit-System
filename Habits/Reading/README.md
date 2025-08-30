@@ -19,7 +19,7 @@
 ## 📆 2021
 1. Born A Crime - Trevor Noah 🎧
 2. Elon Musk - Ashlee Vance 🎧 ⭐
-3. War Of The Worlds - H.G Wells 📘
+3. War Of The Worlds - H.G. Wells 📘
 4. Attitude Is Everything - Jeff Keller 📘
 5. Stillness Is the Key - Ryan Holiday 🎧
 6. Obstacle Is The Way - Ryan Holiday 🎧
