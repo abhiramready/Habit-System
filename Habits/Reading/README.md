@@ -4,6 +4,7 @@
 1. Robinson Crusoe - Daniel Defoe 📘 ⭐
 2. Never Split the Difference: Negotiating As If Your Life Depended On It -  Chris Voss 🎧 ⭐
 3. Five on a Treasure Island - Enid Blyton 📘 ⭐
+4. The Metamorphosis - Franz Kafka 📘 ⭐
 
 ## 📆 2024 
 1. Atomic Habits - James Clear 🎧 ⭐
