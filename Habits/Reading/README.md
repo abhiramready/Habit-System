@@ -5,6 +5,8 @@
 2. Never Split the Difference: Negotiating As If Your Life Depended On It -  Chris Voss 🎧 ⭐
 3. Five on a Treasure Island - Enid Blyton 📘 ⭐
 4. The Metamorphosis - Franz Kafka 📘 ⭐
+5. The Matchless Wits Raman & Gopal - Amar Chitra Katha 📘 ⭐
+6. Tribal Folklore Of India - Amar Chitra Katha 📘 ⭐
 
 ## 📆 2024 
 1. Atomic Habits - James Clear 🎧 ⭐
