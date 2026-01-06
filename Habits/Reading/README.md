@@ -1,12 +1,17 @@
 # 📖 Books Read
 
+## 📆 2026
+1. 
+
 ## 📆 2025
 1. Robinson Crusoe - Daniel Defoe 📘 ⭐
 2. Never Split the Difference: Negotiating As If Your Life Depended On It -  Chris Voss 🎧 ⭐
 3. Five on a Treasure Island - Enid Blyton 📘 ⭐
 4. The Metamorphosis - Franz Kafka 📘 ⭐
-5. The Matchless Wits Raman & Gopal - Amar Chitra Katha 📘 ⭐
-6. Tribal Folklore Of India - Amar Chitra Katha 📘 ⭐
+5. Tribal Folklore Of India - Reena Ittyerah Puri [ACK] 📘 ⭐
+6. Tales Of Giants And Demons: 5 in 1 - Anant Pai [ACK] 📘 ⭐
+7. Tales Told by Sri Ramakrishna: 3 in 1 - Anant Pai [ACK] 📘 ⭐
+8. The Matchless Wits Raman & Gopal: 3 in 1 - Anant Pai [ACK] 📘 ⭐
 
 ## 📆 2024 
 1. Atomic Habits - James Clear 🎧 ⭐
