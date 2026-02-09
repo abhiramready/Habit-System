@@ -1,7 +1,7 @@
 # 📖 Books Read
 
 ## 📆 2026
-1. 
+1. The Chola Tigers - by Amish Tripathi 📘
 
 ## 📆 2025
 1. Robinson Crusoe - Daniel Defoe 📘 ⭐
