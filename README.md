@@ -6,7 +6,7 @@
 Habits are systems for daily actions with long-term goals that determine our direction.
 
 ### 📖 Reading
-- Books Read [2021-2025](/Habits/Reading/README.md)
+- Books Read [2021-2026](/Habits/Reading/README.md)
 
 ### 💻 Learn Programming
 - [2026](/Habits/LearnProgramming/2026.md)
