@@ -2,6 +2,8 @@
 
 ## 📆 2026
 1. The Chola Tigers - by Amish Tripathi 📘
+2. The Midnight Library - Matt Haig 📘 ⭐
+
 
 ## 📆 2025
 1. Robinson Crusoe - Daniel Defoe 📘 ⭐
