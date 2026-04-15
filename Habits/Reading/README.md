@@ -4,6 +4,7 @@
 1. The Chola Tigers - by Amish Tripathi 📘
 2. The Midnight Library - Matt Haig 📘 ⭐
 3. The Silent Patient - Alex Michaelides 📘 ⭐
+4. The 4-Hour Workweek - Tim Ferriss 📘 ⭐
 
 ## 📆 2025
 1. Robinson Crusoe - Daniel Defoe 📘 ⭐
