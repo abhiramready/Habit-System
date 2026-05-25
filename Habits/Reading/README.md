@@ -6,6 +6,8 @@
 3. The Silent Patient - Alex Michaelides 📘 ⭐
 4. The 4-Hour Workweek - Tim Ferriss 📘 ⭐
 5. The Almanack of Naval Ravikant - Eric Jorgenson 📘 ⭐
+6. The Kite Runner - Khaled Hosseini 📘 ⭐
+
 
 ## 📆 2025
 1. Robinson Crusoe - Daniel Defoe 📘 ⭐
