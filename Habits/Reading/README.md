@@ -7,7 +7,7 @@
 4. The 4-Hour Workweek - Tim Ferriss 📘 ⭐
 5. The Almanack of Naval Ravikant - Eric Jorgenson 📘 ⭐
 6. The Kite Runner - Khaled Hosseini 📘 ⭐
-
+7. A Man Called Ove - Fredrik Backman 📘 ⭐
 
 ## 📆 2025
 1. Robinson Crusoe - Daniel Defoe 📘 ⭐
