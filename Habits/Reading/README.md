@@ -1,7 +1,7 @@
 # 📖 Books Read
 
 ## 📆 2026
-1. The Chola Tigers - Amish Tripathi 📘
+1. The Chola Tigers - Amish Tripathi 📘 ⭐
 2. The Midnight Library - Matt Haig 📘 ⭐
 3. The Silent Patient - Alex Michaelides 📘 ⭐
 4. The 4-Hour Workweek - Tim Ferriss 📘 ⭐
